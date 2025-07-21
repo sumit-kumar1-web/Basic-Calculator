@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(45deg, #d60965, #0d0b0b);
+  background: linear-gradient(45deg, #565353, #0d0b0b);
 }
 .calculator {
   width: 300px;
